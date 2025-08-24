@@ -21,7 +21,7 @@ export default function App() {
 
   return (
     <div>
-      <h1>ToDo List Crud</h1>
+      {/* <h1>ToDo List Crud</h1>
       <form onSubmit={handleSubmit}>
         <div>
           <label>title</label>
@@ -33,7 +33,7 @@ export default function App() {
           <br />
           <button>add</button>
         </div>
-      </form>
+      </form> */}
     </div>
   )
 }
